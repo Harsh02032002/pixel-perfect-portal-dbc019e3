@@ -18,7 +18,6 @@ import {
   Play,
   Search,
   ShieldCheck,
-  SlidersHorizontal,
   Users,
   UserRound,
   WalletCards,
